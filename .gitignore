@@ -1,0 +1,26 @@
+# compiled binaries and build output
+*.o
+*.out
+*.exe
+*.class
+*.dSYM/
+a.out
+bin/
+obj/
+build/
+target/
+project/target/
+project/project/
+.bsp/
+__pycache__/
+
+# editor / OS files
+.vscode/
+.idea/
+.DS_Store
+
+# files created when the programs run
+*.txt
+!requirements.txt
+*.bmp
+*.mp3
